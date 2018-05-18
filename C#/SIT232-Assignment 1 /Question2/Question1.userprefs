@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8D5C713C-203F-4427-B546-9C2EBB0D6473}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="91" Column="27" />
+      <File FileName="StatementLine.cs" Line="115" Column="1" />
+      <File FileName="Account.cs" Line="34" Column="30" />
+      <File FileName="CallAccount.cs" Line="96" Column="26" />
+      <File FileName="MessageAccount.cs" Line="86" Column="53" />
+      <File FileName="CallAccountUsage.cs" Line="15" Column="2" />
+      <File FileName="MessageAccountUsage.cs" Line="11" Column="4" />
+      <File FileName="AccountStatement.cs" Line="28" Column="4" />
+      <File FileName="ServiceItem.cs" Line="40" Column="1" />
+      <File FileName="AccountType.cs" Line="4" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Assignments/Assignment 1/Question2/Program.cs" relfile="Program.cs" line="92" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Question1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

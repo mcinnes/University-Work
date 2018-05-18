@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{199D5170-271A-41BE-91BF-9B2CF40B53E9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Shapes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Circle.cs">
+    <Files>
+      <File FileName="Program.cs" Line="30" Column="5" />
+      <File FileName="Circle.cs" Line="19" Column="32" />
+      <File FileName="Rectangle.cs" Line="41" Column="10" />
+      <File FileName="Triangle.cs" Line="45" Column="14" />
+      <File FileName="IShape.cs" Line="10" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

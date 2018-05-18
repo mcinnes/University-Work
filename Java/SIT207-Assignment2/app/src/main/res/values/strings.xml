@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Save to contact book</string>
+    <string name="title_activity_profile_setup">ProfileSetupActivity</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_assignment">AssignmentActivity</string>
+    <string name="title_activity_my_group">MyGroupActivity</string>
+    <string name="title_activity_feedback">Feedback Activity</string>
+
+
+    <string name="feedback_title">Send Feedback</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+    <string name="about_title">About this app</string>
+    <string name="aboutApp">This is my SIT207 assignment 2 application. This application allows students to record the details of their group assignment partners, insert them into their contact book, and view assignment details. Feedback can be provided by the feedback page accessed from the main menu. Made by Matt McInnes 214119048</string>
+
+    <string name="submit_btn">Submit</string>
+
+</resources>

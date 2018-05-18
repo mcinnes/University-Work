@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{BBAF92DD-16C6-457A-BF4A-2C4DB201A268}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JSONTest Status">
+    <Files>
+      <File FileName="QuizHandler.cs" Line="55" Column="86" />
+      <File FileName="Quiz.cs" Line="1" Column="1" />
+      <File FileName="Question.cs" Line="1" Column="1" />
+      <File FileName="iOS/TextAreaQuestionViewController.cs" Line="31" Column="1" />
+      <File FileName="iOS/ViewController.cs" Line="37" Column="45" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="JSONTest Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.JSONTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E0EC9672-3C5A-468E-A036-13C4F15755CD" />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 6/Shapes/bin/Debug/netcoreapp1.1/Shapes.deps.json
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 6/Shapes/bin/Debug/netcoreapp1.1/Shapes.runtimeconfig.json
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 6/Shapes/bin/Debug/netcoreapp1.1/Shapes.runtimeconfig.dev.json
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 6/Shapes/bin/Debug/netcoreapp1.1/Shapes.dll
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 6/Shapes/bin/Debug/netcoreapp1.1/Shapes.pdb
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 6/Shapes/obj/Debug/netcoreapp1.1/Shapes.csprojResolveAssemblyReference.cache
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 6/Shapes/obj/Debug/netcoreapp1.1/Shapes.AssemblyInfo.cs
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 6/Shapes/obj/Debug/netcoreapp1.1/Shapes.dll
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 6/Shapes/obj/Debug/netcoreapp1.1/Shapes.pdb

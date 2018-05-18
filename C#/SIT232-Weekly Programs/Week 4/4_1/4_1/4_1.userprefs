@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1ED39145-AAF0-4A18-B92B-5096AF11E64F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Book.cs">
+    <Files>
+      <File FileName="Program.cs" Line="26" Column="4" />
+      <File FileName="Book.cs" Line="30" Column="2" />
+      <File FileName="Order.cs" Line="23" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.4__1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

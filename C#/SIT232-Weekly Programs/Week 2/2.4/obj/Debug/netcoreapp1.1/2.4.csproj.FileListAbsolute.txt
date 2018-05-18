@@ -1,0 +1,8 @@
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 2/2.4/bin/Debug/netcoreapp1.1/2.4.deps.json
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 2/2.4/bin/Debug/netcoreapp1.1/2.4.runtimeconfig.json
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 2/2.4/bin/Debug/netcoreapp1.1/2.4.runtimeconfig.dev.json
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 2/2.4/bin/Debug/netcoreapp1.1/2.4.dll
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 2/2.4/bin/Debug/netcoreapp1.1/2.4.pdb
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 2/2.4/obj/Debug/netcoreapp1.1/2.4.AssemblyInfo.cs
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 2/2.4/obj/Debug/netcoreapp1.1/2.4.dll
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 2/2.4/obj/Debug/netcoreapp1.1/2.4.pdb

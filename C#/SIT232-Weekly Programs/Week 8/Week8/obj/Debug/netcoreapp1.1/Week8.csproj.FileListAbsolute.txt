@@ -1,0 +1,9 @@
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 8/Week8/bin/Debug/netcoreapp1.1/Week8.deps.json
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 8/Week8/bin/Debug/netcoreapp1.1/Week8.runtimeconfig.json
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 8/Week8/bin/Debug/netcoreapp1.1/Week8.runtimeconfig.dev.json
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 8/Week8/bin/Debug/netcoreapp1.1/Week8.dll
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 8/Week8/bin/Debug/netcoreapp1.1/Week8.pdb
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 8/Week8/obj/Debug/netcoreapp1.1/Week8.csprojResolveAssemblyReference.cache
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 8/Week8/obj/Debug/netcoreapp1.1/Week8.AssemblyInfo.cs
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 8/Week8/obj/Debug/netcoreapp1.1/Week8.dll
+/Users/matt/OneDrive - Deakin University/Year 4/Semester 1/SIT232 - OOP/Weekly Workbooks/Week 8/Week8/obj/Debug/netcoreapp1.1/Week8.pdb

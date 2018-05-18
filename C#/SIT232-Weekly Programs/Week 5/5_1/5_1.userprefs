@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{289274D8-3DA4-42CB-809F-F2C9132AC349}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="36" Column="10" />
+      <File FileName="Account.cs" Line="24" Column="1" />
+      <File FileName="SavingsAccount.cs" Line="13" Column="6" />
+      <File FileName="CreditCard.cs" Line="55" Column="42" />
+      <File FileName="TermDeposit.cs" Line="22" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.5__1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

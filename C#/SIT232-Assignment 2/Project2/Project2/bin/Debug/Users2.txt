@@ -1,0 +1,6 @@
+Admin,Robert Ruge,rruge,B1-86-7E-1E-93-73-50-AE-07-99-4D-4F-FA-05-59-E0
+Admin,Nghia Dang,ndang,1D-FE-8F-72-75-3D-27-9E-F0-C5-21-70-1D-8F-60-13
+Staff,Racheal Rough,rrough,9F-FD-13-D2-F1-BE-CC-B8-A7-4E-8E-75-5C-07-85-C2
+Customer,Alice Wong,awong,07-AC-37-5C-7C-F9-F0-72-DF-8A-02-76-D3-3C-DB-B1
+Customer,Thomas Coombs,tcoombs,34-88-62-D8-0F-AB-3A-53-90-DC-90-2A-66-DF-F7-6C
+Staff,matt mcinnes,mmcinnes,20-CE-A7-94-39-E4-14-68-AA-F0-46-DB-81-47-B0-DB

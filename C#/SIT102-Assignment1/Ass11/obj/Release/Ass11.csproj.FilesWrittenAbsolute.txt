@@ -1,0 +1,6 @@
+/Volumes/my-home/My Documents/Visual Studio 2013/Projects/Ass11/Ass11/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/my-home/My Documents/Visual Studio 2013/Projects/Ass11/Ass11/bin/Release/Ass11.exe.config
+/Volumes/my-home/My Documents/Visual Studio 2013/Projects/Ass11/Ass11/bin/Release/Ass11.exe.mdb
+/Volumes/my-home/My Documents/Visual Studio 2013/Projects/Ass11/Ass11/bin/Release/Ass11.exe
+/Volumes/my-home/My Documents/Visual Studio 2013/Projects/Ass11/Ass11/obj/Release/Ass11.exe
+/Volumes/my-home/My Documents/Visual Studio 2013/Projects/Ass11/Ass11/obj/Release/Ass11.exe.mdb

@@ -1,0 +1,20 @@
+﻿var flowers = {
+    "AD": "Roses",
+    "A2": "Yellow flower",
+    "A3": "Blue flower",
+    "A4": "Red flower",
+    "A5": "Dandelion",
+    "A6": "All things Bright and Beautiful",
+    "A7": "Bright Basket of Spring Flowers",
+    "A8": "Bright Orange Roses",
+    "A9": "Romantic Red and Pink Roses",
+    "A10": "Roses and Tulips in a Basket",
+    "A11": "Mixed Bunch Hydrangeas",
+    "A12": "A Dozen Red Roses",
+    "A13": "Premium Flowers",
+    "A14": "Wonderful gift",
+    "A15": "basket",
+    "A16": "special someone",
+    "A17": "arrangement",
+    "A17": "suit the season"
+}

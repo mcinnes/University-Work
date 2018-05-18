@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="cookies.xsl"?>
+
+<CATALOG>
+<PLANT> <!-- level 1 nesting -->
+    <ID>0</ID>
+    <NAME>All things Bright and Beautiful</NAME>
+    <DESCRIPTION>Bright yellow Sunflowers with seasonal flowers in a glass vase.  This arrangement brings a smile to any face and is seasonal and will be changed to suit the season.</DESCRIPTION>
+    <PRICE>$85.00</PRICE>
+    <PHOTO src="images/flowers/flower1.jpg">flower1.jpg</PHOTO>
+</PLANT>
+<PLANT> <!-- level 1 nesting -->
+    <ID>1</ID>
+    <NAME>Bright Basket of Spring Flowers</NAME>
+    <DESCRIPTION>Bright boquet of yellow Spring flowers, perfect to brighten any room.</DESCRIPTION>
+    <PRICE>$65.00</PRICE>
+    <PHOTO src="images/flowers/flower2.jpg">flower2.jpg</PHOTO>
+</PLANT>
+<PLANT> <!-- level 1 nesting -->
+    <ID>2</ID>
+    <NAME>Bright Orange Roses</NAME>
+    <DESCRIPTION>This Bright Orange pot of roses are a special surprise for that really special someone.</DESCRIPTION>
+    <PRICE>$85.00</PRICE>
+    <PHOTO src="images/flowers/flower3.jpg">flower3.jpg</PHOTO>
+</PLANT>
+<PLANT> <!-- level 1 nesting -->
+    <ID>3</ID>
+    <NAME>Romantic Red and Pink Roses</NAME>
+    <DESCRIPTION>This Wonderful gift of Red and Pink Roses is available anytime of year and is a Stunning arrangement, especially with a glass vase making it the ultimate gift.</DESCRIPTION>
+    <PRICE>$125.00</PRICE>
+    <PHOTO src="images/flowers/flower4.jpg">flower4.jpg</PHOTO>
+</PLANT>
+<PLANT> <!-- level 1 nesting -->
+    <ID>4</ID>
+    <NAME>Roses and Tulips in a Basket</NAME>
+    <DESCRIPTION>This bouquet of Roses and Tulips in a basket comes with a soft green frame, (basket may be of a different colour).</DESCRIPTION>
+    <PRICE>$75.00</PRICE>
+    <PHOTO src="images/flowers/flower5.jpg">flower5.jpg</PHOTO>
+</PLANT>
+<PLANT> <!-- level 1 nesting -->
+    <ID>5</ID>
+    <NAME>Mixed Bunch Hydrangeas</NAME>
+    <DESCRIPTION>Hydrangeas are lush and wonderful and are available in a mixed bunch of blue, pink and green tones.  This arrangement is seasonal and comes with a soft green frame.  A vase can be included to give the ultimate gift.</DESCRIPTION>
+    <PRICE>$75.00</PRICE>
+    <PHOTO src="images/flowers/flower6.jpg">flower6.jpg</PHOTO>
+</PLANT>
+<PLANT> <!-- level 1 nesting -->
+    <ID>6</ID>
+    <NAME>A Dozen Red Roses</NAME>
+    <DESCRIPTION>A dozen Red Roses is the Perfect gift for your loved one or that Special Someone.  This bouquet comes with a soft green frame and a vase can be included to give the ultimate gift..</DESCRIPTION>
+    <PRICE>$75.00</PRICE>
+    <PHOTO src="images/flowers/flower7.jpg">flower7.jpg</PHOTO>
+</PLANT>
+<PLANT> <!-- level 1 nesting -->
+    <ID>7</ID>
+    <NAME>Orchid Extravaganza</NAME>
+    <DESCRIPTION>This Wonderful bouquet is designed with Premium Flowers to dazzle and delight and arrives beautifully gift wrapped.  Orchids and roses makes a a wonderful gift for any occasion and are available any time of year. A vase can be included to give the ultimate gift.</DESCRIPTION>
+    <PRICE>$75.00</PRICE>
+    <PHOTO src="images/flowers/flower8.png">flower8.jpg</PHOTO>
+</PLANT>
+</CATALOG>

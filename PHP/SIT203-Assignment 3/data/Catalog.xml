@@ -1,0 +1,30 @@
+<CATALOG>
+<PLANT> <!-- level 1 nesting -->
+    <ID>0</ID>
+    <NAME> <!-- level 2 nesting -->
+        <COMMON>Bloodroot</COMMON> <!--level 3 nesting -->
+        <BOTANICAL>Sanguinaria canadensis</BOTANICAL> <!-- level 3 nesting -->
+    </NAME>
+    <ZONE>4</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$6.44</PRICE>
+    <PHOTO>bloodroot.gif</PHOTO>
+    <CATAGORY></CATAGORY>
+
+</PLANT>
+
+<PLANT>
+    <ID>1</ID>
+    <NAME>
+        <COMMON>Columbine</COMMON>
+        <BOTANICAL>Aquilegia canadensis</BOTANICAL>
+    </NAME>
+    <ZONE>3</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$9.35</PRICE>
+    <PHOTO>columbine.gif</PHOTO>
+    <CATAGORY></CATAGORY>
+
+</PLANT>
+
+</CATALOG>

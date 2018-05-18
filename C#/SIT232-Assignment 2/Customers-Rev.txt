@@ -1,0 +1,7 @@
+Alice Wong,awong, aw.Customer1,<ID(PhoneNumber)>,<TotalUsage>,<CustomerUsage.Count>
+M Plan,91,800,3
+<UsageTimes>,<ContactNo>,<UnitCharge>,<Cost>
+
+
+
+Thomas Coombs,tcoombs,tc.Customer1,0

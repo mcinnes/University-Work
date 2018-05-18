@@ -1,0 +1,8 @@
+/Users/matt/Projects/JSONTest/bin/Debug/JSONTest.dll
+/Users/matt/Projects/JSONTest/bin/Debug/JSONTest.pdb
+/Users/matt/Projects/JSONTest/obj/Debug/JSONTest.csproj.CoreCompileInputs.cache
+/Users/matt/Projects/JSONTest/obj/Debug/JSONTest.dll
+/Users/matt/Projects/JSONTest/obj/Debug/JSONTest.pdb
+/Users/matt/Projects/JSONTest/bin/Debug/Newtonsoft.Json.dll
+/Users/matt/Projects/JSONTest/bin/Debug/Newtonsoft.Json.xml
+/Users/matt/Projects/JSONTest/obj/Debug/JSONTest.csprojResolveAssemblyReference.cache

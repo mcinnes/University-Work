@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Project3.QuizListView" Title="Quiz List">
+    <ContentPage.Content>
+    <ListView x:Name="lstView" 
+              ItemTapped="OnItemTapped">
+              <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Text}"
+                     Detail="{Binding Tag}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+    </ListView>
+    </ContentPage.Content>
+</ContentPage>

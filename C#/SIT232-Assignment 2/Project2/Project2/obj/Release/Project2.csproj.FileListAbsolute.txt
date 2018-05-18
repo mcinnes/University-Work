@@ -1,0 +1,6 @@
+C:\Users\Matt\Documents\Project2\Project2\bin\Release\Project2.exe.config
+C:\Users\Matt\Documents\Project2\Project2\bin\Release\Project2.exe
+C:\Users\Matt\Documents\Project2\Project2\bin\Release\Project2.pdb
+C:\Users\Matt\Documents\Project2\Project2\obj\Release\Project2.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Project2\Project2\obj\Release\Project2.exe
+C:\Users\Matt\Documents\Project2\Project2\obj\Release\Project2.pdb
